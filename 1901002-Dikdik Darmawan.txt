@@ -8,3 +8,12 @@ Ilmu baru yang saya dapatkan dari membuat program ini yaitu
   - Menjadi tau cara membuat list dari class yang sudah di buat.
   - Menjadi tau cara menggambil value dari sebuah komponent
   - dan lain-lain
+
+Fitur yang saya buat
+- Login
+- Menu Belanja
+- Filter Cari Barang Dinamis
+- List Item/Barang Dinamis
+- Details Barang Dinamis
+- Logout
+- Katalog
